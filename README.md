@@ -2,11 +2,11 @@
 
 ## 👨‍💻 Integrantes do Grupo
 
-| Nome | RM |
-|--------|--------|
-| Felipe Pinheiro Sombra | RM559167 |
-| Fernando de Freitas Carvalho | RM555194 |
-| Nicolas Alves dos Santos | RM558993 |
+| Nome | RM | Turma |
+|--------|--------|--------|
+| Felipe Pinheiro Sombra | RM559167 | 3ECA |
+| Fernando de Freitas Carvalho | RM555194 | 3ECR |
+| Nicolas Alves dos Santos | RM558993 | 3ECR |
 
 ---
 
